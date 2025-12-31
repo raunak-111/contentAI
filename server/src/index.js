@@ -32,6 +32,14 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 // Rate limiting
 app.use('/api', apiLimiter);
 
+app.get('/', (req, res) => {
+  res.status(200).json({
+    message: 'Content Scheduler API is running!',
+    version: '1.0.0'
+  });
+});
+
+
 // Health check
 app.get('/health', (req, res) => {
   res.json({ 
