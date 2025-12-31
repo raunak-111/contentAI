@@ -1,0 +1,887 @@
+[
+    {
+        "content": "🚀 Just launched our new AI-powered analytics dashboard! Real-time insights that actually make sense. Check it out and let us know what you think! #TechLaunch #AI #Analytics",
+        "headline": "New AI Analytics Dashboard Launch",
+        "platform": "twitter",
+        "publishedAt": "2024-12-15T10:30:00Z",
+        "metrics": {
+            "likes": 245,
+            "comments": 42,
+            "shares": 89,
+            "clicks": 156,
+            "impressions": 4520
+        },
+        "tags": [
+            "launch",
+            "ai",
+            "analytics"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "5 Ways to Boost Your Content Strategy in 2025:\n\n1. Use data-driven insights\n2. Optimize posting times\n3. A/B test headlines\n4. Engage with your audience\n5. Leverage AI tools\n\nWhich one are you focusing on?",
+        "headline": "5 Ways to Boost Your Content Strategy",
+        "platform": "linkedin",
+        "publishedAt": "2024-12-14T14:00:00Z",
+        "metrics": {
+            "likes": 892,
+            "comments": 156,
+            "shares": 234,
+            "clicks": 445,
+            "impressions": 12500
+        },
+        "tags": [
+            "strategy",
+            "tips",
+            "content"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Behind the scenes of our content creation process 📸 From brainstorming to publishing - it's all about the details!",
+        "headline": "Behind the Scenes",
+        "platform": "instagram",
+        "publishedAt": "2024-12-13T18:00:00Z",
+        "metrics": {
+            "likes": 1245,
+            "comments": 89,
+            "shares": 45,
+            "clicks": 67,
+            "impressions": 8900
+        },
+        "tags": [
+            "behindthescenes",
+            "creative"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "URGENT: Last day to sign up for our exclusive webinar on content optimization! Limited spots remaining. Don't miss out on insider tips from industry experts. Register now ➡️",
+        "headline": "Last Day - Exclusive Webinar",
+        "platform": "twitter",
+        "publishedAt": "2024-12-12T09:00:00Z",
+        "metrics": {
+            "likes": 156,
+            "comments": 23,
+            "shares": 78,
+            "clicks": 234,
+            "impressions": 3200
+        },
+        "tags": [
+            "webinar",
+            "urgent"
+        ],
+        "tone": "urgent"
+    },
+    {
+        "content": "The future of content marketing isn't about posting more - it's about posting smarter. Our latest research shows that timing and relevance beat volume every time. Here's what we found...",
+        "headline": "Posting Smarter, Not More",
+        "platform": "linkedin",
+        "publishedAt": "2024-12-11T11:00:00Z",
+        "metrics": {
+            "likes": 567,
+            "comments": 89,
+            "shares": 123,
+            "clicks": 289,
+            "impressions": 7800
+        },
+        "tags": [
+            "research",
+            "marketing"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Monday motivation: Every great content strategy started with a single post. Keep creating, keep learning, keep growing! 💪✨",
+        "headline": "Monday Motivation",
+        "platform": "instagram",
+        "publishedAt": "2024-12-09T08:00:00Z",
+        "metrics": {
+            "likes": 2345,
+            "comments": 134,
+            "shares": 89,
+            "clicks": 45,
+            "impressions": 15600
+        },
+        "tags": [
+            "motivation",
+            "monday"
+        ],
+        "tone": "inspirational"
+    },
+    {
+        "content": "New blog post: 'The Complete Guide to Content Scheduling for Maximum Engagement' - Learn how to use data to find your perfect posting times. Link in bio!",
+        "headline": "Complete Guide to Content Scheduling",
+        "platform": "facebook",
+        "publishedAt": "2024-12-08T15:30:00Z",
+        "metrics": {
+            "likes": 234,
+            "comments": 45,
+            "shares": 67,
+            "clicks": 189,
+            "impressions": 4500
+        },
+        "tags": [
+            "blog",
+            "guide",
+            "scheduling"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Quick tip: Tuesday mornings (9-11 AM) consistently outperform other time slots for B2B content. Try it for your next campaign! #MarketingTips",
+        "headline": "Quick Tip: Best B2B Posting Time",
+        "platform": "twitter",
+        "publishedAt": "2024-12-10T09:30:00Z",
+        "metrics": {
+            "likes": 189,
+            "comments": 34,
+            "shares": 98,
+            "clicks": 145,
+            "impressions": 3800
+        },
+        "tags": [
+            "tips",
+            "b2b"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "We asked 500 content managers about their biggest challenge. The answer? Finding the right time to post. That's exactly why we built our analytics platform.",
+        "headline": "500 Content Managers Survey Results",
+        "platform": "linkedin",
+        "publishedAt": "2024-12-07T13:00:00Z",
+        "metrics": {
+            "likes": 445,
+            "comments": 78,
+            "shares": 112,
+            "clicks": 234,
+            "impressions": 6700
+        },
+        "tags": [
+            "survey",
+            "research"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Just hit 10,000 scheduled posts on our platform! 🎉 Thank you to all our amazing users for trusting us with your content strategy.",
+        "headline": "10K Scheduled Posts Milestone",
+        "platform": "twitter",
+        "publishedAt": "2024-12-06T16:00:00Z",
+        "metrics": {
+            "likes": 567,
+            "comments": 89,
+            "shares": 145,
+            "clicks": 78,
+            "impressions": 5600
+        },
+        "tags": [
+            "milestone",
+            "celebration"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Content planning doesn't have to be stressful. Our drag-and-drop scheduler makes it as easy as moving pieces on a chess board. Strategic, simple, satisfying.",
+        "headline": "Easy Content Planning",
+        "platform": "instagram",
+        "publishedAt": "2024-12-05T12:00:00Z",
+        "metrics": {
+            "likes": 890,
+            "comments": 56,
+            "shares": 34,
+            "clicks": 123,
+            "impressions": 7200
+        },
+        "tags": [
+            "planning",
+            "productivity"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "The ROI of good timing: Posts published during optimal hours see 73% more engagement on average. Here's how to find your optimal hours...",
+        "headline": "The ROI of Good Timing",
+        "platform": "linkedin",
+        "publishedAt": "2024-12-04T10:00:00Z",
+        "metrics": {
+            "likes": 678,
+            "comments": 112,
+            "shares": 189,
+            "clicks": 345,
+            "impressions": 9200
+        },
+        "tags": [
+            "roi",
+            "analytics"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Friday vibes: Wrapping up the week with some content planning for next week. What's on your content calendar? 📅",
+        "headline": "Friday Planning Vibes",
+        "platform": "twitter",
+        "publishedAt": "2024-12-06T17:00:00Z",
+        "metrics": {
+            "likes": 123,
+            "comments": 45,
+            "shares": 23,
+            "clicks": 34,
+            "impressions": 2100
+        },
+        "tags": [
+            "friday",
+            "planning"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Case Study: How Company X increased their engagement by 156% using data-driven scheduling. Read the full story on our blog.",
+        "headline": "Case Study: 156% Engagement Increase",
+        "platform": "facebook",
+        "publishedAt": "2024-12-03T14:00:00Z",
+        "metrics": {
+            "likes": 345,
+            "comments": 67,
+            "shares": 89,
+            "clicks": 234,
+            "impressions": 5400
+        },
+        "tags": [
+            "casestudy",
+            "success"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Pro tip: Don't just schedule and forget. Monitor your analytics weekly to continuously optimize your posting strategy. Small tweaks = big results over time.",
+        "headline": "Pro Tip: Continuous Optimization",
+        "platform": "linkedin",
+        "publishedAt": "2024-12-02T09:00:00Z",
+        "metrics": {
+            "likes": 512,
+            "comments": 78,
+            "shares": 134,
+            "clicks": 267,
+            "impressions": 7100
+        },
+        "tags": [
+            "protip",
+            "optimization"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Weekend project idea: Audit your last month's posts and identify patterns. You might be surprised what you find! 🔍",
+        "headline": "Weekend Project: Content Audit",
+        "platform": "twitter",
+        "publishedAt": "2024-11-30T11:00:00Z",
+        "metrics": {
+            "likes": 167,
+            "comments": 34,
+            "shares": 56,
+            "clicks": 89,
+            "impressions": 2800
+        },
+        "tags": [
+            "weekend",
+            "audit"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Breaking: Our Q4 Content Benchmark Report is now available! Key findings include the best posting times, top-performing content types, and platform-specific insights.",
+        "headline": "Q4 Content Benchmark Report Released",
+        "platform": "linkedin",
+        "publishedAt": "2024-11-28T10:00:00Z",
+        "metrics": {
+            "likes": 789,
+            "comments": 145,
+            "shares": 234,
+            "clicks": 456,
+            "impressions": 11200
+        },
+        "tags": [
+            "report",
+            "benchmark"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "This Thanksgiving, we're grateful for our amazing community of content creators. You inspire us every day! 🦃❤️",
+        "headline": "Thanksgiving Gratitude",
+        "platform": "instagram",
+        "publishedAt": "2024-11-28T15:00:00Z",
+        "metrics": {
+            "likes": 1567,
+            "comments": 234,
+            "shares": 78,
+            "clicks": 45,
+            "impressions": 12300
+        },
+        "tags": [
+            "thanksgiving",
+            "gratitude"
+        ],
+        "tone": "inspirational"
+    },
+    {
+        "content": "Wednesday wisdom: The best time to post isn't universal - it's unique to YOUR audience. Use your data to find your sweet spot.",
+        "headline": "Wednesday Wisdom: Know Your Audience",
+        "platform": "twitter",
+        "publishedAt": "2024-11-27T09:00:00Z",
+        "metrics": {
+            "likes": 234,
+            "comments": 45,
+            "shares": 89,
+            "clicks": 123,
+            "impressions": 3400
+        },
+        "tags": [
+            "wisdom",
+            "audience"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "New feature alert! 🚨 You can now get AI-powered headline suggestions for your scheduled posts. Boost your click-through rates with data-driven copy.",
+        "headline": "New Feature: AI Headlines",
+        "platform": "twitter",
+        "publishedAt": "2024-11-25T14:00:00Z",
+        "metrics": {
+            "likes": 345,
+            "comments": 67,
+            "shares": 123,
+            "clicks": 234,
+            "impressions": 4800
+        },
+        "tags": [
+            "feature",
+            "ai"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "The art of the headline: It's not about clickbait - it's about clarity and curiosity. Here are 5 headline formulas that work...",
+        "headline": "5 Headline Formulas That Work",
+        "platform": "linkedin",
+        "publishedAt": "2024-11-24T11:00:00Z",
+        "metrics": {
+            "likes": 623,
+            "comments": 98,
+            "shares": 167,
+            "clicks": 312,
+            "impressions": 8400
+        },
+        "tags": [
+            "headlines",
+            "copywriting"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Sunday reset: Planning next week's content. There's something satisfying about seeing a well-organized content calendar 📊",
+        "headline": "Sunday Content Planning",
+        "platform": "instagram",
+        "publishedAt": "2024-11-24T18:00:00Z",
+        "metrics": {
+            "likes": 789,
+            "comments": 67,
+            "shares": 34,
+            "clicks": 56,
+            "impressions": 6200
+        },
+        "tags": [
+            "sunday",
+            "planning"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Data point: Posts with questions in headlines get 23% more comments on average. Start conversations, not monologues.",
+        "headline": "Headlines with Questions Get 23% More Comments",
+        "platform": "twitter",
+        "publishedAt": "2024-11-22T10:00:00Z",
+        "metrics": {
+            "likes": 278,
+            "comments": 89,
+            "shares": 112,
+            "clicks": 145,
+            "impressions": 3900
+        },
+        "tags": [
+            "data",
+            "engagement"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "From zero to hero: A beginner's guide to content scheduling. Perfect for those just starting their content marketing journey.",
+        "headline": "Beginner's Guide to Content Scheduling",
+        "platform": "facebook",
+        "publishedAt": "2024-11-20T13:00:00Z",
+        "metrics": {
+            "likes": 189,
+            "comments": 34,
+            "shares": 56,
+            "clicks": 167,
+            "impressions": 3200
+        },
+        "tags": [
+            "beginner",
+            "guide"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Hot take: Most content calendars fail because they focus on quantity over quality. One great post > ten mediocre ones.",
+        "headline": "Quality Over Quantity in Content",
+        "platform": "linkedin",
+        "publishedAt": "2024-11-18T09:00:00Z",
+        "metrics": {
+            "likes": 534,
+            "comments": 156,
+            "shares": 89,
+            "clicks": 178,
+            "impressions": 7600
+        },
+        "tags": [
+            "opinion",
+            "quality"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Celebrating our 1-year anniversary! 🎂 What started as a simple idea is now helping thousands of content creators worldwide. Thank you for being part of our journey!",
+        "headline": "1 Year Anniversary Celebration",
+        "platform": "instagram",
+        "publishedAt": "2024-11-15T12:00:00Z",
+        "metrics": {
+            "likes": 2134,
+            "comments": 345,
+            "shares": 167,
+            "clicks": 89,
+            "impressions": 18900
+        },
+        "tags": [
+            "anniversary",
+            "milestone"
+        ],
+        "tone": "inspirational"
+    },
+    {
+        "content": "Thread: 10 content scheduling mistakes that are killing your engagement (and how to fix them) 🧵\n\n1/ Posting at random times without data...",
+        "headline": "10 Content Scheduling Mistakes Thread",
+        "platform": "twitter",
+        "publishedAt": "2024-11-14T10:00:00Z",
+        "metrics": {
+            "likes": 456,
+            "comments": 78,
+            "shares": 234,
+            "clicks": 189,
+            "impressions": 6100
+        },
+        "tags": [
+            "thread",
+            "mistakes"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "The psychology behind optimal posting times: Why 10 AM works for B2B and 7 PM works for B2C. Deep dive in our latest article.",
+        "headline": "Psychology of Posting Times",
+        "platform": "linkedin",
+        "publishedAt": "2024-11-12T14:00:00Z",
+        "metrics": {
+            "likes": 678,
+            "comments": 112,
+            "shares": 189,
+            "clicks": 345,
+            "impressions": 9800
+        },
+        "tags": [
+            "psychology",
+            "timing"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Real talk: We've been in your shoes. The overwhelm of managing multiple platforms, the anxiety of finding the right time to post. That's why we built this.",
+        "headline": "We Understand Your Struggles",
+        "platform": "facebook",
+        "publishedAt": "2024-11-10T16:00:00Z",
+        "metrics": {
+            "likes": 312,
+            "comments": 89,
+            "shares": 67,
+            "clicks": 134,
+            "impressions": 4700
+        },
+        "tags": [
+            "authentic",
+            "relatable"
+        ],
+        "tone": "inspirational"
+    },
+    {
+        "content": "Early bird special: Our Black Friday deal starts NOW. Get 50% off annual plans for the next 48 hours. Don't miss out! 🖤",
+        "headline": "Black Friday - 50% Off",
+        "platform": "twitter",
+        "publishedAt": "2024-11-29T00:00:00Z",
+        "metrics": {
+            "likes": 567,
+            "comments": 89,
+            "shares": 234,
+            "clicks": 456,
+            "impressions": 7800
+        },
+        "tags": [
+            "blackfriday",
+            "sale"
+        ],
+        "tone": "urgent"
+    },
+    {
+        "content": "Monthly content review: What worked, what didn't, and what we're changing for December. Transparency is key to improvement.",
+        "headline": "November Content Review",
+        "platform": "linkedin",
+        "publishedAt": "2024-11-30T10:00:00Z",
+        "metrics": {
+            "likes": 389,
+            "comments": 67,
+            "shares": 78,
+            "clicks": 145,
+            "impressions": 5200
+        },
+        "tags": [
+            "review",
+            "transparency"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Tools we use for content creation:\n✅ Canva for graphics\n✅ Grammarly for copy\n✅ Our platform for scheduling\n\nWhat's in your toolkit?",
+        "headline": "Our Content Creation Toolkit",
+        "platform": "instagram",
+        "publishedAt": "2024-11-08T14:00:00Z",
+        "metrics": {
+            "likes": 934,
+            "comments": 234,
+            "shares": 89,
+            "clicks": 67,
+            "impressions": 8100
+        },
+        "tags": [
+            "tools",
+            "productivity"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Myth busted: You don't need to post every day to be successful. Consistency matters more than frequency. Here's the data...",
+        "headline": "Myth: Daily Posting Required",
+        "platform": "linkedin",
+        "publishedAt": "2024-11-06T09:00:00Z",
+        "metrics": {
+            "likes": 712,
+            "comments": 145,
+            "shares": 234,
+            "clicks": 389,
+            "impressions": 10200
+        },
+        "tags": [
+            "myth",
+            "frequency"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Quick poll: What's your biggest content scheduling challenge?\n\n🅰️ Finding the right time\n🅱️ Creating enough content\n🅲️ Staying consistent\n🅳️ Measuring results",
+        "headline": "Poll: Biggest Scheduling Challenge",
+        "platform": "twitter",
+        "publishedAt": "2024-11-04T11:00:00Z",
+        "metrics": {
+            "likes": 234,
+            "comments": 567,
+            "shares": 45,
+            "clicks": 89,
+            "impressions": 4100
+        },
+        "tags": [
+            "poll",
+            "engagement"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Introducing dark mode! 🌙 Now you can schedule your content without burning your eyes during those late-night planning sessions.",
+        "headline": "Dark Mode Now Available",
+        "platform": "twitter",
+        "publishedAt": "2024-11-02T15:00:00Z",
+        "metrics": {
+            "likes": 678,
+            "comments": 123,
+            "shares": 189,
+            "clicks": 234,
+            "impressions": 6700
+        },
+        "tags": [
+            "feature",
+            "darkmode"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Halloween special: The scariest thing in content marketing is not having a strategy. Don't be spooked - start planning today! 🎃👻",
+        "headline": "Halloween Content Strategy",
+        "platform": "instagram",
+        "publishedAt": "2024-10-31T09:00:00Z",
+        "metrics": {
+            "likes": 1234,
+            "comments": 167,
+            "shares": 89,
+            "clicks": 56,
+            "impressions": 11200
+        },
+        "tags": [
+            "halloween",
+            "seasonal"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Enterprise clients: We now offer dedicated account management and custom analytics dashboards. Let's talk about how we can support your team's unique needs.",
+        "headline": "Enterprise Solutions Available",
+        "platform": "linkedin",
+        "publishedAt": "2024-10-28T10:00:00Z",
+        "metrics": {
+            "likes": 234,
+            "comments": 34,
+            "shares": 56,
+            "clicks": 123,
+            "impressions": 3400
+        },
+        "tags": [
+            "enterprise",
+            "b2b"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "The weekend algorithm is real: Our data shows that Saturday posts get 40% less engagement than weekday posts for B2B content. Save your best stuff for Monday!",
+        "headline": "Weekend Algorithm Impact",
+        "platform": "twitter",
+        "publishedAt": "2024-10-26T10:00:00Z",
+        "metrics": {
+            "likes": 345,
+            "comments": 78,
+            "shares": 156,
+            "clicks": 189,
+            "impressions": 4800
+        },
+        "tags": [
+            "algorithm",
+            "data"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Customer spotlight: Meet Sarah, who grew her Instagram following by 300% in 6 months using our AI recommendations. Here's her story...",
+        "headline": "Customer Spotlight: 300% Growth",
+        "platform": "facebook",
+        "publishedAt": "2024-10-24T13:00:00Z",
+        "metrics": {
+            "likes": 567,
+            "comments": 89,
+            "shares": 134,
+            "clicks": 267,
+            "impressions": 7200
+        },
+        "tags": [
+            "customer",
+            "success"
+        ],
+        "tone": "inspirational"
+    },
+    {
+        "content": "API update: Developers can now access our scheduling and analytics features programmatically. Check out our new documentation!",
+        "headline": "New API Features Released",
+        "platform": "twitter",
+        "publishedAt": "2024-10-22T14:00:00Z",
+        "metrics": {
+            "likes": 189,
+            "comments": 34,
+            "shares": 67,
+            "clicks": 145,
+            "impressions": 2800
+        },
+        "tags": [
+            "api",
+            "developers"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Team feature request: What would you like to see next? We're planning our Q1 roadmap and your input matters!\n\nDrop your ideas below 👇",
+        "headline": "Q1 Feature Request Thread",
+        "platform": "linkedin",
+        "publishedAt": "2024-10-20T09:00:00Z",
+        "metrics": {
+            "likes": 412,
+            "comments": 234,
+            "shares": 56,
+            "clicks": 89,
+            "impressions": 6100
+        },
+        "tags": [
+            "feedback",
+            "roadmap"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Automation without losing authenticity - that's our promise. Schedule smarter, but always keep the human touch in your content.",
+        "headline": "Automation with Authenticity",
+        "platform": "instagram",
+        "publishedAt": "2024-10-18T12:00:00Z",
+        "metrics": {
+            "likes": 678,
+            "comments": 56,
+            "shares": 34,
+            "clicks": 45,
+            "impressions": 5400
+        },
+        "tags": [
+            "automation",
+            "authentic"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Free template: Download our content calendar template and start organizing your posts like a pro. Link in the thread!",
+        "headline": "Free Content Calendar Template",
+        "platform": "twitter",
+        "publishedAt": "2024-10-16T11:00:00Z",
+        "metrics": {
+            "likes": 456,
+            "comments": 89,
+            "shares": 234,
+            "clicks": 389,
+            "impressions": 5900
+        },
+        "tags": [
+            "free",
+            "template"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "The difference between good and great content? Timing. You can have the best post in the world, but if no one sees it, does it matter?",
+        "headline": "Timing Makes Great Content",
+        "platform": "linkedin",
+        "publishedAt": "2024-10-14T10:00:00Z",
+        "metrics": {
+            "likes": 534,
+            "comments": 78,
+            "shares": 123,
+            "clicks": 234,
+            "impressions": 7400
+        },
+        "tags": [
+            "philosophy",
+            "timing"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Weekend vibes 🌴 Even content managers need a break. See you back Monday with fresh insights and new features!",
+        "headline": "Weekend Break",
+        "platform": "instagram",
+        "publishedAt": "2024-10-12T17:00:00Z",
+        "metrics": {
+            "likes": 1123,
+            "comments": 78,
+            "shares": 34,
+            "clicks": 23,
+            "impressions": 8900
+        },
+        "tags": [
+            "weekend",
+            "lifestyle"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "A/B testing tip: Test your headlines with different emotional triggers. Curiosity vs. urgency - which performs better for YOUR audience?",
+        "headline": "A/B Testing Headlines",
+        "platform": "twitter",
+        "publishedAt": "2024-10-10T09:00:00Z",
+        "metrics": {
+            "likes": 289,
+            "comments": 56,
+            "shares": 98,
+            "clicks": 167,
+            "impressions": 4200
+        },
+        "tags": [
+            "abtesting",
+            "headlines"
+        ],
+        "tone": "educational"
+    },
+    {
+        "content": "Scaling your content doesn't mean losing quality. Here's how enterprise teams use our platform to maintain consistency across 50+ posts per week.",
+        "headline": "Scaling Content Quality",
+        "platform": "linkedin",
+        "publishedAt": "2024-10-08T13:00:00Z",
+        "metrics": {
+            "likes": 423,
+            "comments": 67,
+            "shares": 89,
+            "clicks": 178,
+            "impressions": 6300
+        },
+        "tags": [
+            "enterprise",
+            "scaling"
+        ],
+        "tone": "professional"
+    },
+    {
+        "content": "Fun fact: Our most engaged posts are published on Tuesdays between 10-11 AM. What about yours?",
+        "headline": "Fun Fact: Best Posting Time",
+        "platform": "twitter",
+        "publishedAt": "2024-10-05T10:30:00Z",
+        "metrics": {
+            "likes": 312,
+            "comments": 145,
+            "shares": 78,
+            "clicks": 89,
+            "impressions": 4500
+        },
+        "tags": [
+            "funfact",
+            "engagement"
+        ],
+        "tone": "playful"
+    },
+    {
+        "content": "Looking back at Q3: 15 million scheduled posts, 500+ new features, and countless success stories. Thank you for growing with us!",
+        "headline": "Q3 in Review",
+        "platform": "instagram",
+        "publishedAt": "2024-10-01T12:00:00Z",
+        "metrics": {
+            "likes": 1567,
+            "comments": 234,
+            "shares": 89,
+            "clicks": 67,
+            "impressions": 13400
+        },
+        "tags": [
+            "quarterly",
+            "review"
+        ],
+        "tone": "inspirational"
+    }
+]
